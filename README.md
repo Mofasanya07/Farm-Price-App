@@ -1,2 +1,9 @@
 # Farm-Price-App
-Offline crop price lookup tool for rural farmers in Nigeria
+Offline-first Python app that helps rural farmers check crop prices without internet access.
+
+README:
+✓ The Problem
+✓ How It Works
+✓ Tech Stack
+✓ Demo
+✓ Future Upgrade
